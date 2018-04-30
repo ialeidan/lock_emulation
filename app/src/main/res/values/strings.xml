@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lock Emulation</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDmM5eJ0sjYUn0iBg0oc6QQH_kdWML4tHo</string>
+</resources>
